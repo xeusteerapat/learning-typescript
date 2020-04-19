@@ -1,6 +1,10 @@
 class Vehicle2 {
   // we need to remove drive method to allow child class use drive() method
-
+  // color: string;
+  // constructor(color: string) {
+  //   this.color = color
+  // }
+  // This chunk of code as above is same as below
   constructor(public color: string) {}
 
   public honk() {
