@@ -16,6 +16,6 @@
     "nodemon": "^2.0.20"
   },
   "dependencies": {
-    "uuid": "^7.0.3"
+    "uuid": "^14.0.0"
   }
 }
